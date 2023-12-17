@@ -1,4 +1,4 @@
-FROM alpine:3.17.0
+FROM alpine:3.19.0
 MAINTAINER barwell
 
 RUN apk --update add \
